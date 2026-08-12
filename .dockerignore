@@ -1,7 +1,8 @@
+**/__pycache__
+**/*.pyc
+**/*.pyo
 .git
 .env
-.venv
-__pycache__
-*.pyc
-postgres_data
-staticfiles
+.env.*
+*.sqlite3
+app/staticfiles/
